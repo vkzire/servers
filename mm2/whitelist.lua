@@ -2,7 +2,8 @@ local Players = game:GetService("Players")
 
 whitelisted = {
     "uz0ci",
-    "vkzire"
+    "vkzire",
+    "arabkeng"
 }
 
 local checked = 0
